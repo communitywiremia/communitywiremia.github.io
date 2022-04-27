@@ -43,6 +43,7 @@ img[src$="svg"] {
 address a {
   background-repeat: no-repeat;
   background-size: 1rem 1rem;
+  background-position: 0 center;
   padding-left: 1.25rem;
 }
 
