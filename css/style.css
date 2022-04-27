@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: "Radio Canada", "Helvetica", "Arial", sans-serif;
+  font-weight: 500;
   line-height: 1.3;
   display: flex;
   justify-content: center;
@@ -22,11 +23,11 @@ body {
 a,
 a:link,
 a:visited {
-  color: #f47321;
+  color: #005030;
 }
 
 a:hover {
-  color: #005030;
+  color: #f47321;
   transition: color 0.5s linear;
 }
 
